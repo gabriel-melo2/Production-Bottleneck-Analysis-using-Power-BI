@@ -1,5 +1,7 @@
 # Operational Bottleneck Analysis & SLA Optimization
 
+**Report Link:** https://app.powerbi.com/view?r=eyJrIjoiZDNkODdhZjctYjliMC00YWRmLWFkNGEtM2NjYTM5ZjU3YWEwIiwidCI6ImY2MjdlMjJlLWNmNzItNDlhOC05MmZjLTZjNmIwMThmNTg3MiJ9
+
 ## Project Overview
 This project was developed as part of an MBA in Data Analytics & Business Intelligence 360°.
 The main goal was to identify operational bottlenecks in a simulated manufacturing company (Xperiun),
