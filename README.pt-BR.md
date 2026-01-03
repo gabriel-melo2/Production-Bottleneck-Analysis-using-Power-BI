@@ -1,5 +1,7 @@
 ## **Projeto de MBA | Data Analytics & Business Intelligence 360°**
 
+**Link Relatório:** https://app.powerbi.com/view?r=eyJrIjoiZDNkODdhZjctYjliMC00YWRmLWFkNGEtM2NjYTM5ZjU3YWEwIiwidCI6ImY2MjdlMjJlLWNmNzItNDlhOC05MmZjLTZjNmIwMThmNTg3MiJ9
+
 Concluí recentemente um projeto do meu MBA em Data Analytics & Business Intelligence 360°, onde atuei na análise de gargalos operacionais de uma empresa simulada (Xperiun), com foco em eficiência produtiva e tomada de decisão baseada em dados.
 
 ## **Objetivo do projeto**
